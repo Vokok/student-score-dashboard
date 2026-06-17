@@ -1,0 +1,35 @@
+{
+  "feat_cols": [
+    "gender",
+    "race_ethnicity",
+    "parental_level_of_education",
+    "lunch",
+    "test_preparation_course"
+  ],
+  "cat_cols": [
+    "gender",
+    "race_ethnicity",
+    "parental_level_of_education",
+    "lunch",
+    "test_preparation_course"
+  ],
+  "targets": [
+    "math_score",
+    "reading_score",
+    "writing_score"
+  ],
+  "metrics": {
+    "math_score": {
+      "r2": 0.026,
+      "mae": 12.05
+    },
+    "reading_score": {
+      "r2": -0.0172,
+      "mae": 11.8
+    },
+    "writing_score": {
+      "r2": 0.1211,
+      "mae": 11.03
+    }
+  }
+}

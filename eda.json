@@ -1,0 +1,93 @@
+{
+  "gender": {
+    "math_score": {
+      "female": 63.63,
+      "male": 68.73
+    },
+    "reading_score": {
+      "female": 72.61,
+      "male": 65.47
+    },
+    "writing_score": {
+      "female": 72.47,
+      "male": 63.31
+    }
+  },
+  "race_ethnicity": {
+    "math_score": {
+      "group A": 61.63,
+      "group B": 63.45,
+      "group C": 64.46,
+      "group D": 67.36,
+      "group E": 73.82
+    },
+    "reading_score": {
+      "group A": 64.67,
+      "group B": 67.35,
+      "group C": 69.1,
+      "group D": 70.03,
+      "group E": 73.03
+    },
+    "writing_score": {
+      "group A": 62.67,
+      "group B": 65.6,
+      "group C": 67.83,
+      "group D": 70.15,
+      "group E": 71.41
+    }
+  },
+  "parental_level_of_education": {
+    "math_score": {
+      "associate's degree": 67.88,
+      "bachelor's degree": 69.39,
+      "high school": 62.14,
+      "master's degree": 69.75,
+      "some college": 67.13,
+      "some high school": 63.5
+    },
+    "reading_score": {
+      "associate's degree": 70.93,
+      "bachelor's degree": 73.0,
+      "high school": 64.7,
+      "master's degree": 75.37,
+      "some college": 69.46,
+      "some high school": 66.94
+    },
+    "writing_score": {
+      "associate's degree": 69.9,
+      "bachelor's degree": 73.38,
+      "high school": 62.45,
+      "master's degree": 75.68,
+      "some college": 68.84,
+      "some high school": 64.89
+    }
+  },
+  "lunch": {
+    "math_score": {
+      "free/reduced": 58.92,
+      "standard": 70.03
+    },
+    "reading_score": {
+      "free/reduced": 64.65,
+      "standard": 71.65
+    },
+    "writing_score": {
+      "free/reduced": 63.02,
+      "standard": 70.82
+    }
+  },
+  "test_preparation_course": {
+    "math_score": {
+      "completed": 69.7,
+      "none": 64.08
+    },
+    "reading_score": {
+      "completed": 73.89,
+      "none": 66.53
+    },
+    "writing_score": {
+      "completed": 74.42,
+      "none": 64.5
+    }
+  }
+}
